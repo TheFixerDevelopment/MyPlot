@@ -6,6 +6,7 @@ version: 1.1.4
 api:
 - 3.0.0
 - 3.0.0-ALPHA7
+- 3.0.1
 softdepend:
 - EconomyAPI
 - PocketMoney
